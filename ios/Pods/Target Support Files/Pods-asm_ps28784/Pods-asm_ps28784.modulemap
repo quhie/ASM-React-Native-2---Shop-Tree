@@ -1,0 +1,6 @@
+module Pods_asm_ps28784 {
+  umbrella header "Pods-asm_ps28784-umbrella.h"
+
+  export *
+  module * { export * }
+}
